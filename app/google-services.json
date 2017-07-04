@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "807334307959",
+    "firebase_url": "https://fir-user-d17a8.firebaseio.com",
+    "project_id": "fir-user-d17a8",
+    "storage_bucket": "fir-user-d17a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807334307959:android:ba2da193924de02e",
+        "android_client_info": {
+          "package_name": "com.junhee.android.firebase_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807334307959-9rsrgrtss4da584ubsib0mjlv21b4utb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.junhee.android.firebase_user",
+            "certificate_hash": "20807db3d4170c513fca8fdd9b2537abb4dcb0d7"
+          }
+        },
+        {
+          "client_id": "807334307959-6cssud9pnsl97t4bmpksp82o23itqpej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHhav0wZlG7LsvMtOZ7nJdO9xjsUq2ixE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807334307959-6cssud9pnsl97t4bmpksp82o23itqpej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807334307959:android:d30b1276ef137b9a",
+        "android_client_info": {
+          "package_name": "com.junhee.android.firebase_advanced"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807334307959-1chih70sboo4fcv4vf7iid8bltg41cgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.junhee.android.firebase_advanced",
+            "certificate_hash": "20807db3d4170c513fca8fdd9b2537abb4dcb0d7"
+          }
+        },
+        {
+          "client_id": "807334307959-6cssud9pnsl97t4bmpksp82o23itqpej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHhav0wZlG7LsvMtOZ7nJdO9xjsUq2ixE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807334307959-6cssud9pnsl97t4bmpksp82o23itqpej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
