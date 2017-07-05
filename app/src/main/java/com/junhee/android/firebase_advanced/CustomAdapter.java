@@ -75,8 +75,4 @@ public class CustomAdapter extends BaseAdapter {
     public long getItemId(int position) {
         return position;
     }
-
-
-
-
 }

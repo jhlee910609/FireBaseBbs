@@ -24,10 +24,6 @@
         <activity
             android:name=".WriteActivity"
             android:windowSoftInputMode="adjustResize" />
-        <activity
-            android:name=".NaviActivity"
-            android:label="@string/title_activity_navi"
-            android:theme="@style/AppTheme.NoActionBar" />
 
         <activity android:name=".MessageActivity" />
 
